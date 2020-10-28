@@ -14,12 +14,12 @@
 
 const qiniu={
 
-	token:'v8HMJl-CM2EBkkZVsRsVKsYKI5vv-NHP4O9h4MTX:AQxfYNcb46udJNuCqsIgWz4Xec8=:eyJzY29wZSI6InB5d29tYW4iLCJkZWFkbGluZSI6MTg2MjY0NzE5OH0=',
+	token:'jIFPDW2kqbYITI0cBU8wxLdi0W420Ieb98cB7Qou:-rhfx0g7mNGgvAV52oX0ULeNrwI=:eyJzY29wZSI6ImZlbmduaWFvc2hhbmdjaGVuZyIsImRlYWRsaW5lIjoxNjAzODU5MDg4fQ==',
 
 	upurl:'https://upload-z2.qiniup.com',
 
 
-	showurl:'https://qi.pywoman.com/'
+	showurl:'https://niu.fengniaotuangou.cn/'
 	// showurl:'https://qu.qdbnm.com/'
 	// showurl:'http://pam213sin.bkt.clouddn.com/'
 };
